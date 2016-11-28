@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using Data.Repositories.Contacts;
+using Data.Repositories.Contracts;
 using Data.Repositories.Helpers;
 using Data.UnitOfWork;
 using PetaPoco;

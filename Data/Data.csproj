@@ -50,9 +50,9 @@
     <Compile Include="Repositories\Helpers\DynamicDictionary.cs" />
     <Compile Include="Repositories\ColumnLookupRepositoryBase.cs" />
     <Compile Include="Repositories\ForeignKeyRepositoryBase.cs" />
-    <Compile Include="Repositories\Contacts\IColumnLookupRepository.cs" />
-    <Compile Include="Repositories\Contacts\IForeignKeyRepository.cs" />
-    <Compile Include="Repositories\Contacts\IRepository.cs" />
+    <Compile Include="Repositories\Contracts\IColumnLookupRepository.cs" />
+    <Compile Include="Repositories\Contracts\IForeignKeyRepository.cs" />
+    <Compile Include="Repositories\Contracts\IRepository.cs" />
     <Compile Include="Repositories\Helpers\QueryHelper.cs" />
     <Compile Include="Repositories\RepositoryBase.cs" />
     <Compile Include="Repositories\Helpers\SqlBuilder.cs" />

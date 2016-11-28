@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Data.Repositories.Helpers;
 
-namespace Data.Repositories.Contacts
+namespace Data.Repositories.Contracts
 {
     public interface IColumnLookupRepository<TEntity>
     {

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Data.Repositories.Contacts
+namespace Data.Repositories.Contracts
 {
     public interface IForeignKeyRepository<TEntity>
     {

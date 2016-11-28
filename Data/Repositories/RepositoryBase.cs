@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Data.Repositories.Contacts;
+using Data.Repositories.Contracts;
 using Data.UnitOfWork;
 using PetaPoco;
 using PetaPoco.Internal;
